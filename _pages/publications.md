@@ -192,7 +192,7 @@ subtitle: "Manuscripts under review and published works."
     <div>
       <h3><a href="https://arxiv.org/abs/2404.09516">State Space Model for New-Generation Network Alternative to Transformers: A Survey</a></h3>
       <p class="publication-authors">Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, <strong>Wentao Wu</strong>, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang<sup>*</sup>, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang</p>
-      <p class="publication-venue"><em>arXiv preprint, 2024</em>, arXiv:2404.09516</p>
+      <p class="publication-venue"><em>Visual Intelligence, 2026</em>, arXiv:2404.09516</p>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2404.09516">[arXiv]</a>
         <a href="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List">[GitHub]</a>
