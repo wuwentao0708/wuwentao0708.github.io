@@ -13,6 +13,24 @@ subtitle: "Manuscripts under review and published works."
   <article class="publication-item">
     <div class="publication-year">2026</div>
     <div>
+      <h3>Learning Dynamic Fusion World Model for Multimodal UAV Object Detection</h3>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li<sup>*</sup>, Zhaodong Ding, Fan Cheng, Jin Tang, Bin Luo</p>
+      <p class="publication-venue"><em>Manuscript under review, 2026</em></p>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-year">2026</div>
+    <div>
+      <h3>Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training</h3>
+      <p class="publication-authors"><strong>Wentao Wu</strong>, Xiao Wang<sup>*</sup>, Yi Wang, Chenglong Li<sup>*</sup>, Yonghong Tian, Bin Luo</p>
+      <p class="publication-venue"><em>Manuscript under review, 2026</em></p>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-year">2026</div>
+    <div>
       <h3>CascadeCoT: Cascaded Chain-of-Thought Reasoning Network for Multimodal UAV Object Detection</h3>
       <p class="publication-authors"><strong>Wentao Wu</strong>, Chenglong Li<sup>*</sup>, Xiao Wang, Yifei Deng, Xiaowei Zhao, Bin Luo</p>
       <p class="publication-venue"><em>Manuscript under review, 2026</em></p>
